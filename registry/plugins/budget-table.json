@@ -5,7 +5,6 @@
   "description": "Bring back the pre-v3.1 categorized budget table",
   "repo": "jubnl/Trek_Plugin-Budget_Table",
   "type": "trip-page",
-  "requiredAddons": ["budget"],
   "versions": [
     {
       "version": "1.0.0",
