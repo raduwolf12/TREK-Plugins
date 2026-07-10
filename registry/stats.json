@@ -1,11 +1,12 @@
 {
-  "updatedAt": "2026-07-09",
+  "updatedAt": "2026-07-10",
   "plugins": {
-    "budget-table": 86,
-    "koffi": 155,
-    "nihongo-nugget": 37,
-    "suica-saver": 25,
-    "trek-x-japan": 74,
-    "trekichiki": 40
+    "budget-table": 95,
+    "koffi": 159,
+    "nihongo-nugget": 40,
+    "suica-saver": 28,
+    "trek-x-japan": 82,
+    "trekichiki": 42,
+    "wiki-place-context": 6
   }
 }
