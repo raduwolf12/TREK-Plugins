@@ -8,15 +8,15 @@
   "versions": [
     {
       "version": "1.0.0",
-      "gitTag": "v1.0.1",
-      "commitSha": "ba87903a06fc8c2c39abe00d116e4159487d19a5",
-      "downloadUrl": "https://github.com/raduwolf12/trip-research/releases/download/v1.0.1/plugin.zip",
-      "sha256": "3b2d6f93fca0e2668c3da9fac07ef90d1713cabd81a2c38fa930c76c53e9f014",
+      "gitTag": "v1.0.2",
+      "commitSha": "23484b94601d6103ce13080dc8ba43c2524bccb2",
+      "downloadUrl": "https://github.com/raduwolf12/trip-research/releases/download/v1.0.2/plugin.zip",
+      "sha256": "dadac875a7679ba1c063962478b38895237b2e7da2836b07d186368a128ea262",
       "minTrekVersion": "3.3.0",
-      "size": 52296,
+      "size": 74613,
       "apiVersion": 1,
       "nativeModules": false,
-      "publishedAt": "2026-07-13T17:47:22.930Z"
+      "publishedAt": "2026-07-13T23:36:22.930Z"
     }
   ],
   "homepage": "https://github.com/raduwolf12/trip-research",
