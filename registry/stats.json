@@ -1,14 +1,15 @@
 {
-  "updatedAt": "2026-07-13",
+  "updatedAt": "2026-07-16",
   "plugins": {
-    "budget-table": 140,
-    "koffi": 199,
-    "nihongo-nugget": 54,
-    "suica-saver": 45,
-    "trek-x-japan": 129,
-    "trekichiki": 70,
-    "wiki-place-context": 138,
-    "trek-gotify": 19,
-    "trip-todos": 77
+    "budget-table": 175,
+    "koffi": 221,
+    "nihongo-nugget": 67,
+    "suica-saver": 54,
+    "trek-x-japan": 158,
+    "trekichiki": 83,
+    "wiki-place-context": 216,
+    "trek-gotify": 28,
+    "trip-todos": 148,
+    "flight-tracker": 32
   }
 }
