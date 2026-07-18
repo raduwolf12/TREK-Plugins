@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-17T05:57:40.383Z",
+  "generatedAt": "2026-07-18T05:38:18.375Z",
   "plugins": [
     {
       "id": "budget-table",
@@ -28,7 +28,7 @@
       ],
       "reviewedAt": "2026-07-06",
       "boundOwner": "jubnl",
-      "downloadCount": 182
+      "downloadCount": 190
     },
     {
       "id": "flight-tracker",
@@ -56,7 +56,7 @@
       "authorPublicKey": "DJDfduAyHs2Ja/xhOyMkbCAcreMZZyKuz70PqTyfYM0=",
       "reviewedAt": "2026-07-16",
       "boundOwner": "fbnlrz",
-      "downloadCount": 81
+      "downloadCount": 110
     },
     {
       "id": "koffi",
@@ -101,7 +101,7 @@
       ],
       "reviewedAt": "2026-07-04",
       "boundOwner": "mauriceboe",
-      "downloadCount": 224
+      "downloadCount": 226
     },
     {
       "id": "nihongo-nugget",
@@ -127,7 +127,7 @@
       "homepage": "https://github.com/fbnlrz/nihongo-nugget",
       "reviewedAt": "2026-07-05",
       "boundOwner": "fbnlrz",
-      "downloadCount": 68
+      "downloadCount": 70
     },
     {
       "id": "suica-saver",
@@ -155,7 +155,7 @@
       "authorPublicKey": "kdvtL1DEM+p49J1eVKTwDl//BFzRFJcOtkDoc0Ay2bM=",
       "reviewedAt": "2026-07-06",
       "boundOwner": "fbnlrz",
-      "downloadCount": 57
+      "downloadCount": 58
     },
     {
       "id": "trek-gotify",
@@ -222,7 +222,7 @@
       "homepage": "https://github.com/fbnlrz/trek-x-japan",
       "reviewedAt": "2026-07-07",
       "boundOwner": "fbnlrz",
-      "downloadCount": 163
+      "downloadCount": 168
     },
     {
       "id": "trekichiki",
@@ -284,7 +284,7 @@
       "homepage": "https://github.com/fbnlrz/trekichiki",
       "reviewedAt": "2026-07-07",
       "boundOwner": "fbnlrz",
-      "downloadCount": 85
+      "downloadCount": 86
     },
     {
       "id": "trip-todos",
@@ -312,7 +312,7 @@
       "authorPublicKey": "4QeCOm8gMfcoZdjIznao2KV10NSS7u/0AYn+6FA6/Oo=",
       "reviewedAt": "2026-07-11",
       "boundOwner": "mauriceboe",
-      "downloadCount": 155
+      "downloadCount": 166
     },
     {
       "id": "wiki-place-context",
@@ -338,7 +338,7 @@
       "homepage": "https://github.com/raduwolf12/wiki-place-context",
       "reviewedAt": "2026-07-10",
       "boundOwner": "raduwolf12",
-      "downloadCount": 233
+      "downloadCount": 243
     }
   ]
 }
