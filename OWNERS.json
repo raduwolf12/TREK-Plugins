@@ -55,6 +55,11 @@
       "boundOwner": "geracobo",
       "repo": "geracobo/trek-plugin-reservations",
       "firstReviewedAt": "2026-07-18"
+    },
+    "trek-vox-plugin": {
+      "boundOwner": "MaximeCn",
+      "repo": "MaximeCn/trek-vox-plugin",
+      "firstReviewedAt": "2026-07-19"
     }
   }
 }
