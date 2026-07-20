@@ -60,6 +60,11 @@
       "boundOwner": "MaximeCn",
       "repo": "MaximeCn/trek-vox-plugin",
       "firstReviewedAt": "2026-07-19"
+    },
+    "trip-research": {
+      "boundOwner": "raduwolf12",
+      "repo": "raduwolf12/trip-research",
+      "firstReviewedAt": "2026-07-20"
     }
   }
 }
