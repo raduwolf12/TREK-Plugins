@@ -1,0 +1,24 @@
+{
+  "id": "trip-research",
+  "name": "Trip Research",
+  "author": "raduwolf12",
+  "description": "All-in-one trip research: visa requirements, public holidays, weather, duty-free limits, and group luggage rules — auto-populated from your trip.",
+  "repo": "raduwolf12/trip-research",
+  "type": "trip-page",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "gitTag": "v1.0.4",
+      "commitSha": "fddadf0e205c0952aaf210d3112764b5bb9939b6",
+      "downloadUrl": "https://github.com/raduwolf12/trip-research/releases/download/v1.0.4/plugin.zip",
+      "sha256": "4590b4ca8308ab574355f2aa1897e7b3ef3f58d8b9a1deb6474f01589a777588",
+      "trek": ">=3.3.0 <4.0.0",
+      "size": 66562,
+      "apiVersion": 1,
+      "nativeModules": false,
+      "publishedAt": "2026-07-20T20:43:04.144Z"
+    }
+  ],
+  "icon": "Globe",
+  "homepage": "https://github.com/raduwolf12/trip-research"
+}
