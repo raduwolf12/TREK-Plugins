@@ -65,6 +65,11 @@
       "boundOwner": "raduwolf12",
       "repo": "raduwolf12/trip-research",
       "firstReviewedAt": "2026-07-20"
+    },
+    "trip-importer": {
+      "boundOwner": "raduwolf12",
+      "repo": "raduwolf12/trip-importer",
+      "firstReviewedAt": "2026-07-21"
     }
   }
 }
